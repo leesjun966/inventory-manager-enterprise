@@ -1,0 +1,33 @@
+{
+  "name": "inventory-manager-enterprise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericlah/inventory-manager-enterprise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericlah/inventory-manager-enterprise/issues"
+  },
+  "homepage": "https://github.com/ericlah/inventory-manager-enterprise#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^1.6.5",
+    "qrcode": "^1.4.1",
+    "require-all": "^3.0.0",
+    "sequelize": "^5.21.2"
+  }
+}
