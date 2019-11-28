@@ -1,5 +1,8 @@
 # Backend Server
 
+## Installation
+* Install the node modules: __npm install__
+
 ## Starting Up
 * Start the server: __npm start__
 * Start with nodemon for development: __npm test__
