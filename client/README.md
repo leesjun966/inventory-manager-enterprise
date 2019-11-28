@@ -10,8 +10,8 @@
 
 ## Login
 
-username: jaydenlee
-password: baby1234
+- username: jaydenlee
+- password: baby1234
 
 ## Directory Structure
 
