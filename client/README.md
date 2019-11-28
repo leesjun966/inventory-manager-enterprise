@@ -1,8 +1,17 @@
 # inventory-manager-enterprise
 
+## Installation
+
+- Install the node modules: **npm install**
+
 ## Starting Up
 
 - Start the server: **npm start**
+
+## Login
+
+username: jaydenlee
+password: baby1234
 
 ## Directory Structure
 
